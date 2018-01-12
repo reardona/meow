@@ -29,11 +29,11 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+author: "Ashley Reardon"
+title: "{ Ashley Reardon }"
+description: "Professional website of Ashley Reardon, human performance researcher and gaming enthusiast."
+keywords: "reardon, ashley, human performance, research, gaming"
+favicon: "/img/controller.ico"
 
 ################
 # Header layout #
