@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Ashley Reardon"
-title: "-Ashley L Reardon-"
+title: "Ashley L Reardon"
 description: "Professional website of Ashley Reardon, human performance researcher and gaming enthusiast."
 keywords: "reardon, ashley, human performance, research, gaming"
 favicon: "/img/favicon1.ico"
@@ -91,10 +91,16 @@ icon-192p: "/img/web-app/icon-192p.png"
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "May 2016 - Present"
-    description: "Quantum Improvements Consulting"
+    description: "Quantum Improvements Consulting, did more stuff"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "August 2016 - May 2018"
+    description: "University of Central Florida, Master of Modeling and Simulation"
   - image: "/img/timeline/baracktocat.jpg"
     date: "June 2016 - May 2016"
-    description: "Prodigy Lab"
+    description: "Prodigy Lab, Did stuff"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "August 2013 - May 2016"
+    description: "University of Central Florida, Bachelor of Arts in Psychology"
 
 # First image of the Timeline
 
