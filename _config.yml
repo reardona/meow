@@ -33,7 +33,7 @@ author: "Ashley Reardon"
 title: "{ Ashley Reardon }"
 description: "Professional website of Ashley Reardon, human performance researcher and gaming enthusiast."
 keywords: "reardon, ashley, human performance, research, gaming"
-favicon: "/img/controller.png"
+favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
@@ -137,7 +137,7 @@ email: "reardona@knights.ucf.edu"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Ashley Reardon holds a Bachelor of Arts in Psychology from the University of Central Florida, and will be receiving her Masters degree in Modeling and Simulation from the University of Central Florida in May of 2018. When shHer research focus stems from x, y,z, experiences as an undergrad, and has grown since her time in grad school. Her work include x, y, z. awesome person."
-author_blurb_image: "/img/author1.png"
+author_blurb_image: "/img/author1.jpg"
 
 ##################
 # Social Buttons #
