@@ -114,11 +114,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "May 2016 - Present"
+    description: "Quantum Improvements Consulting"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "June 2016 - May 2016"
+    description: "Prodigy Lab"
 
 # First image of the Timeline
 
@@ -146,16 +146,16 @@ author_blurb_image: "/img/author1.jpg"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+  #- title: "facebook"
+    #url: "https://facebook.com/"
+  #- title: "twitter"
+    #url: "https://twitter.com/"
+  #- title: "github"
+    #url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+  #- title: "bitcoin"
+    #url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  #- title: "rss"
+    #url: "/feed.xml"
 
 ############
 # 404 page #
@@ -179,7 +179,7 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  #Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
