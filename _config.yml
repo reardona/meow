@@ -136,7 +136,7 @@ email: "reardona@knights.ucf.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Ashley Reardon holds a Bachelor of Arts in Psychology from the University of Central Florida, and will be receiving her Masters degree in Modeling and Simulation from the University of Central Florida in May of 2018. When shHer research focus stems from x, y,z, experiences as an undergrad, and has grown since her time in grad school. Her work include x, y, z. awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Ashley Reardon holds a Bachelor of Arts in Psychology from the University of Central Florida, and will be receiving her Masters degree in Modeling and Simulation from the University of Central Florida in May of 2018. When shHer research focus stems from x, y,z, experiences as an undergrad, and has grown since her time in grad school. Her work include x, y, z. awesome person."
 author_blurb_image: "/img/author1.png"
 
 ##################
