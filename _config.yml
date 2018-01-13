@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 
 
-background-img: "../intro-bg.jpg" 
+background-img: "../img/intro-bg.jpg" 
 
 
 ##############################
@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Life begins at the end of your comfort zone."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/author2.png"
+me-img: "/img/author1.png"
 
 ##############################
 # Color the browser elements #
