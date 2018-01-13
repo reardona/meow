@@ -187,6 +187,7 @@ pages_list:
   #Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
+  Publications: 'publications'
 
 # Exclusion list from the generated _site
 
