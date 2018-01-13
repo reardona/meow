@@ -87,7 +87,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-#enable-gesture-navigation: True
+enable-gesture-navigation: True
 
 #post-preview-words: 96
 
@@ -104,7 +104,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 #pocket-share: False
 #vkontakte-share: False
 
-#disqus-shortname: "panossakkos"
+disqus-shortname: "panossakkos"
 
 #syntax-highlight: True
 
@@ -184,10 +184,10 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  #Blog: 'latest-post'
+  Publications: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
-  Publications: 'publications'
+
 
 # Exclusion list from the generated _site
 
