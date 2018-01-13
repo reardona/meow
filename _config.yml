@@ -168,6 +168,7 @@ pages_list:
   About: 'about'
   Timeline: 'timeline'
   Contact: 'contact'
+  CV: 'cv'
 
 
 # Exclusion list from the generated _site
