@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 
 
-background-img: "../backimage.jpg" #this is the background image. ..
+background-img: "../intro-bg.jpg" #this is the background image. ..
 
 
 ##############################
