@@ -157,8 +157,9 @@ social:
     #url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   #- title: "rss"
     #url: "/feed.xml"
-     - title: "linkedin"
-    url: "www.linkedin.com/in/ashleylaurenreardon"
+   - title: "linkedin"
+     url: "https://linkedin.com/in/ashleylaurenreardon/"
+ 
 
 
 ############
