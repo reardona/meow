@@ -91,7 +91,7 @@ enable-gesture-navigation: True
 
 #post-preview-words: 96
 
-#paginate: 5
+paginate: 5
 
 #email-share: True
 #fb-share: False
@@ -106,7 +106,7 @@ enable-gesture-navigation: True
 
 disqus-shortname: "panossakkos"
 
-#syntax-highlight: True
+syntax-highlight: True
 
 ############
 # Timeline #
