@@ -41,7 +41,9 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
+<pre><code data-trim class="yaml">
 background-img: "../backimage.jpg" #this is the background image. ..
+</code></pre>
 
 ##############################
 # Dynamic Text on the Header #
