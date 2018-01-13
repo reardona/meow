@@ -130,6 +130,10 @@ timeline-img: "/img/timeline/default.png"
 
 email: "reardona@knights.ucf.edu"
 
+social:
+  - title: "linkedin.com"
+    url: "https://www.linkedin.com/in/ashley-reardon-49086097/"
+
 ################
 # Author Blurb #
 ################
