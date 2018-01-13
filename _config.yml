@@ -83,30 +83,6 @@ icon-96p: "/img/web-app/icon-96p.png"
 icon-144p: "/img/web-app/icon-144p.png"
 icon-192p: "/img/web-app/icon-192p.png"
 
-########
-# Blog #
-########
-
-enable-gesture-navigation: True
-
-#post-preview-words: 96
-
-paginate: 5
-
-#email-share: True
-#fb-share: False
-#twitter-share: False
-#linkedin-share: True
-#reddit-share: False
-#google-plus-share: False
-#tumblr-share: False
-#pinterest-share: False
-#pocket-share: False
-#vkontakte-share: False
-
-disqus-shortname: "panossakkos"
-
-syntax-highlight: True
 
 ############
 # Timeline #
@@ -184,7 +160,6 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  Publications: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
