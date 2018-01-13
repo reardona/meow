@@ -33,13 +33,13 @@ author: "Ashley Reardon"
 title: "{ Ashley Reardon }"
 description: "Professional website of Ashley Reardon, human performance researcher and gaming enthusiast."
 keywords: "reardon, ashley, human performance, research, gaming"
-favicon: "/img/favicon.ico"
+favicon: "/img/favicon1.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon1.ico"
 
 
 background-img: "../img/ok.jpg" 
